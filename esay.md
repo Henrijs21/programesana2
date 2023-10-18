@@ -4,7 +4,7 @@ Saturs
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
 
 Spēles loģika ir labi aprakstīta sājā kodā:
-
+```py
 import random
 
 repeat = True
@@ -40,3 +40,4 @@ while repeat:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
 3. Un t.t.
+```
