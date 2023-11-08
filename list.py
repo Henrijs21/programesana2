@@ -1,4 +1,4 @@
-```py
+
 shopping_list = ['milk', 'avokado']
 shopping_list.extend(['maize', 'kartupeļi', 'saldējums'])
 print(shopping_list)
@@ -10,4 +10,4 @@ if item_to_delete in shopping_list:
 else:
     print(f"Could not find {item_to_delete} in your list")
 
-print(shopping_list)```
+print(shopping_list)
