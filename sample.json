@@ -1,0 +1,49 @@
+{
+    "companies":[
+        {
+            "name": "Liels uzņēmums", 
+            "adrese ": "Rīga",
+            "phone": "+371 23843240",
+            "contacts": [
+                {
+                    "name": "Anna",
+                    "Surname": "Berziņa",
+                    "Phone": "428397589"
+
+                },
+                {
+                    "name": "Ieva",
+                    "Surname": "Ilga",
+                    "Phone": "233841908"
+
+                }    
+
+
+            ]
+        
+        },
+        {
+            "name": "Vidējs uzņēmums",
+            "adrese ": "Ogre",
+            "phone": "+371 23324324",
+            "contacts": [
+
+                {
+                    "name": "Jānis",
+                    "Surname": "Kalns",
+                    "Phone": "9583495"
+
+                }    
+
+
+            ]
+        
+        },
+        {"name": "Mazs uzņēmums",
+         "adrese ": "Ikšķile",
+        "phone": "+371 21983371",
+        "contacts":[]
+    }
+    ]
+}
+
