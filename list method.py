@@ -1,4 +1,3 @@
-
 shopping_list = ['milk', 'avokado']
 shopping_list.extend(['maize', 'kartupeļi', 'saldējums'])
 print(shopping_list)
