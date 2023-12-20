@@ -1,0 +1,35 @@
+{
+    "skolens": [
+        {
+            "Name": "May",
+            "Surname": "May",
+            "Class": "-1C",
+            "School": "Tā skola kurai nav nosaukuma",
+            "grade1v1": 10
+        },
+        {
+            "Name": "Larry",
+            "Surname": "Lobster",
+            "Class": "50G",
+            "School": "Muskuļu mazināšanas skola",
+            "grade1v1": "5",
+            "grades": [
+                {
+                    "subject": "programming",
+                    "date": "11.11.2022.",
+                    "value": 8
+                },
+                {
+                    "subject": "math",
+                    "date": "12.11.2022.",
+                    "value": 6
+                },
+                {
+                    "subject": "programming",
+                    "date": "05.10.2022.",
+                    "value": 6
+                }
+            ]
+        }
+    ]
+}
